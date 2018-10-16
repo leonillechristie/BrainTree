@@ -7,6 +7,6 @@ Referenced from: https://developers.braintreepayments.com
 Run on:
 php -S localhost:8000
 
-User Credentials
-username: acapp
+User Credentials <br>
+username: acapp <br>
 password: secret1
